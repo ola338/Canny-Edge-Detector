@@ -11,6 +11,9 @@ The process of Canny edge detector algorithm can be broken down to six different
 5. Apply double threshold to determine potential edges using the determined Otsu threshold.
 6. Track edge by hysteresis - the detection of edges by suppressing all the other edges that are weak and not connected to strong edges.
 
+## Results
+Example image before and after canny edge detection.
+![Example screenshot](./images/after_processing/canny_edge_detection.png)
 ## Used Technologies 
 - Language: Python 3.9
 - Libraries: skimage, scipy, numpy, matplotlib.pyplot
