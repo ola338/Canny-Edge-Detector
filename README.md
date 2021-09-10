@@ -1,4 +1,4 @@
-# Canny edge detector
+# Canny Edge Detector
 The Canny edge detector is an edge detection operator that uses a multi-stage algorithm to detect a wide range of edges in images. 
 
 ## Steps
@@ -14,6 +14,7 @@ The process of Canny edge detector algorithm can be broken down to six different
 ## Results
 Example image before and after canny edge detection.
 ![Example screenshot](./images/after_processing/canny_edge_detection.png)
+
 ## Used Technologies 
-- Language: Python 3.9
-- Libraries: skimage, scipy, numpy, matplotlib.pyplot
+- Language: Python
+- Libraries: Scikit-image, SciPy, NumPy, Matplotlib
